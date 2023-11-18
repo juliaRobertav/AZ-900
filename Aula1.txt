@@ -1,0 +1,28 @@
+Trilha:
+AZ 900
+SC 900 -> SEGURANÇA
+PL 900 -> APLICATIVO
+AI 900
+
+AZ 900:
+
+SaaS (Software as a Service)
+
+Ambiente Local (on Premisse)
+-> servidor - banco de dados
+- armazenamento 
+- acessos/usuários 
+- internet 
+- redes
+
+
+* servidor se conecta com um sinal da internet e 
+todos os computadores conectados n mesmo ambiente, se conectam a esse servidor
+
+SLA – tempo de garantia que o serviço irá funionar
+Ex – 99,99% do ano funcionando
+SLA é a sigla de Service Level Agreement, que significa “Acordo de Nível de Serviço - ANS”
+O SLA consiste num contrato entre duas partes: entre a entidade que pretende fornecer o serviço e o cliente que deseja se beneficiar deste.
+
+O que é SLA e Tipos
+https://www.siteware.com.br/qualidade/o-que-e-sla/#:~:text=Existem%20basicamente%20dois%20tipos%20de,que%20atendem%20a%20diferentes%20necessidades.
