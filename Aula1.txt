@@ -6,7 +6,6 @@ AI 900
 
 AZ 900:
 
-SaaS (Software as a Service)
 
 Ambiente Local (on Premisse)
 -> servidor - banco de dados
@@ -29,7 +28,7 @@ https://www.siteware.com.br/qualidade/o-que-e-sla/#:~:text=Existem%20basicamente
 
 
 Categorias:
-SaaS - Software
+SaaS - Software (Software as a Service) - somente utilizar (Dados - responsabilidade minha)
 PaaS - Plataforma - Banco de Dados/Programação (site, função), IA, Migração...
 IaaS - infraestrutura (Base) -> Processador/Memória/Espaço/Rede...
 
