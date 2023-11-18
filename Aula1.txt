@@ -26,3 +26,58 @@ O SLA consiste num contrato entre duas partes: entre a entidade que pretende for
 
 O que é SLA e Tipos
 https://www.siteware.com.br/qualidade/o-que-e-sla/#:~:text=Existem%20basicamente%20dois%20tipos%20de,que%20atendem%20a%20diferentes%20necessidades.
+
+
+
+
+
+-- Infraestrutura da Azure
+https://datacenters.microsoft.com/globe/explore
+
+-- Site oficial da Microsoft sobre o curso AZ900
+https://learn.microsoft.com/pt-br/credentials/certifications/exams/az-900/
+
+-- Site com mapa de serviços Azure
+http://azurecharts.com
+
+-- Ambiente para laboratórios
+http://msle.learnondemand.net
+
+-- Nova chave de laboratório
+29911CD1473A4AC1
+
+-- Tipos de dados que a Microsoft consegue armazenar
+https://learn.microsoft.com/pt-br/training/modules/explore-core-data-concepts/2-data-formats?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+
+-- Configurações de redundância para armazenamento
+https://learn.microsoft.com/pt-br/training/modules/describe-azure-storage-services/3-redundancy
+
+-- Link Azure Blueprints
+https://learn.microsoft.com/pt-br/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-of-azure-blueprints
+
+-- Link de formas de autenticação
+https://learn.microsoft.com/pt-br/training/modules/describe-azure-identity-access-security/3-authentication-methods
+
+Autenticação: verificar o usuário (se existe) e a senha (se é realmente daquele usuário)
+Autorização: depois que o usuário foi autenticado, é usada para indicar o que o usuário está ou não autorizado a fazer
+
+-- Forms
+
+
+--------
+Azure Advisor: fornece sugestões para configurar os recursos, garantindo segurança, desempenho, custos e confiança (redução de erros)
+
+Azure NSG (Network Security Group): monitora o tráfego de rede, tanto entrada quanto saída de dados. Possibilita escolher grupos pré-definidos de regras para os recursos, por exemplo, para liberar um servidor web (porta 80). Diferente do Firewall, o NSG não filtra, só monitora e gerencia as regras.
+
+Ataques comuns que já são realizados na internet, há um controle padrão da Azure. DDoS, por exemplo, já é filtrado automaticamente.
+
+Azure Sentinel: sistema com inteligência artificial para analisar grande quantidade de dados de diversas fontes.
+
+Azure Key Vault: armazena dados confidenciais de aplicativos. É possível armazenar senhas, chaves de acesso, certificados entre outros.
+
+Segurança dos dados (os quais são os usuários/clientes que fornecem) são sempre de responsabilidade de quem contrata
+
+
+
+
+
