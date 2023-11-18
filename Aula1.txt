@@ -30,7 +30,7 @@ https://www.siteware.com.br/qualidade/o-que-e-sla/#:~:text=Existem%20basicamente
 
 Categorias:
 SaaS - Software
-PaaS - Plataforma
+PaaS - Plataforma - Banco de Dados/Programação (site, função), IA, Migração...
 IaaS - infraestrutura (Base) -> Processador/Memória/Espaço/Rede...
 
 
