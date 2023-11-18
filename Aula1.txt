@@ -28,6 +28,11 @@ O que é SLA e Tipos
 https://www.siteware.com.br/qualidade/o-que-e-sla/#:~:text=Existem%20basicamente%20dois%20tipos%20de,que%20atendem%20a%20diferentes%20necessidades.
 
 
+Categorias:
+SaaS - Software
+PaaS - Plataforma
+IaaS - infraestrutura (Base) -> Processador/Memória/Espaço/Rede...
+
 
 
 
