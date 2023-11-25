@@ -7,3 +7,6 @@
 {% file src=".gitbook/assets/AZ-900T0X-BR-PowerPoint_01.pptx" %}
 
 {% file src=".gitbook/assets/AZ-900 - 02.pptx" %}
+
+{% embed url="https://learn.microsoft.com/en-us/rest/api/azure/" %}
+
