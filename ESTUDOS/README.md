@@ -15,3 +15,5 @@
 {% embed url="https://learn.microsoft.com/pt-br/training/" %}
 
 {% embed url="https://azuremarketplace.microsoft.com/pt-br/" %}
+
+{% embed url="https://youtu.be/4ub1uGKQK6U?si=uesPKkIkx8HgdqOR" %}
