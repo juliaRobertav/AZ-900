@@ -11,3 +11,5 @@
 {% embed url="https://learn.microsoft.com/en-us/rest/api/azure/" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/" %}
+
+{% embed url="https://learn.microsoft.com/pt-br/training/" %}
