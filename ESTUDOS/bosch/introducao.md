@@ -4,6 +4,8 @@ description: Todas as explicações detalhadas desses assuntos estão nos slides
 
 # Introdução
 
+{% file src="../.gitbook/assets/IntroduçãoAZ900.pdf" %}
+
 ### Computação em nuvem
 
 \-> acessar qualquer serviço pela internet
@@ -51,6 +53,8 @@ Para isso a Microsoft fornece uma calculadora de preços
 ### Tipos de Serviço de nuvem
 
 \-> IaaS (infraestrutura)
+
+* Máquina Virtual e Contêiner por exemplo fazem parte da infraestrutura
 
 \-> PaaS (plataforma)
 
