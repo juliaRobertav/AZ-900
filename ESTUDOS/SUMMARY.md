@@ -10,4 +10,3 @@
 ## Bosch
 
 * [Introdução](bosch/introducao.md)
-* [Exercício](bosch/exercicio.md)
