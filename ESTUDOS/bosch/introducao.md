@@ -60,6 +60,6 @@ Para isso a Microsoft fornece uma calculadora de preços
 
 \-> SaaS (software)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **Não necessariamente é preciso comprar os recursos da azure (principalmente em SaaS) para usar!!**
