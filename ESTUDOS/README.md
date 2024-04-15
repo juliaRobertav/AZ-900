@@ -1,3 +1,7 @@
+---
+description: Slides das aulas e links gerais para estudar
+---
+
 # Dicas/Slides
 
 {% file src=".gitbook/assets/AZ-900T0X-01.pdf" %}
@@ -5,6 +9,12 @@
 {% file src=".gitbook/assets/AZ-900 - 02.pdf" %}
 
 {% file src=".gitbook/assets/AZ-900 - 03.pdf" %}
+
+{% file src=".gitbook/assets/AZ-900 - 04.pdf" %}
+
+{% file src=".gitbook/assets/AZ-900 - 05.pdf" %}
+
+{% file src=".gitbook/assets/AZ-900 - 06.pdf" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
 
