@@ -1,12 +1,14 @@
 # Table of contents
 
 * [Dicas/Slides](README.md)
-* [Aula(18/11)](aula-18-11.md)
-* [Aula(25/11)](aula-25-11.md)
-* [Aula(02/12)](aula-02-12.md)
-* [Aula(09/12)](aula-09-12.md)
-* [Aula(16/12)](aula-16-12.md)
 
 ## Bosch
 
 * [Introdução](bosch/introducao.md)
+
+## AZ900-Zerbini
+
+* [Aula(18/11)](az900-zerbini/aula-18-11.md)
+* [Aula(25/11)](az900-zerbini/aula-25-11.md)
+* [Aula(02/12)](az900-zerbini/aula-02-12.md)
+* [Aula(09/12)](az900-zerbini/aula-09-12.md)
