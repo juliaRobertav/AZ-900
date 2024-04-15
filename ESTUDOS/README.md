@@ -4,6 +4,10 @@ description: Slides das aulas e links gerais para estudar
 
 # Dicas/Slides
 
+Essa documentação também está disponível nesse repositório:
+
+{% embed url="https://github.com/juliaRobertav/AZ-900?tab=readme-ov-file" %}
+
 {% file src=".gitbook/assets/AZ-900T0X-01.pdf" %}
 
 {% file src=".gitbook/assets/AZ-900 - 02.pdf" %}
@@ -15,6 +19,8 @@ description: Slides das aulas e links gerais para estudar
 {% file src=".gitbook/assets/AZ-900 - 05.pdf" %}
 
 {% file src=".gitbook/assets/AZ-900 - 06.pdf" %}
+
+{% file src=".gitbook/assets/IntroduçãoAZ900.pdf" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
 
