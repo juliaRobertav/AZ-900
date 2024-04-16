@@ -4,7 +4,9 @@ description: Arquitetura Azure
 
 # Arquitetura
 
+Esse site explica melhor sobre os conceitos de arquitetura azure:
 
+{% embed url="https://learn.microsoft.com/pt-br/azure/architecture/guide/" %}
 
 #### Zonas de disponibilidade
 
@@ -56,7 +58,7 @@ Fornece opções de computação como discos, processadores...
 
 #### Grupos de Gerenciamento
 
-
+* Grupos de gerenciamento são contêineres que o ajudarão a gerenciar o acesso, a política e a conformidade entre várias assinaturas
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/governance/management-groups/overview" %}
 
