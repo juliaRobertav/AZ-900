@@ -72,3 +72,6 @@ Se a pessoa tem permissão para acessar
 * detectar e bloquear malware
 * possui logs e gráficos
 
+-> No simulado pode ser que pergumte sobre algumas situações possíveis e o que deve ser feito para resolver
+* Exemplo:
+* Pedir Recursos - a melhor solução seria o bloqueio
