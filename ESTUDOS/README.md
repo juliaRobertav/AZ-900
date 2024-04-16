@@ -24,6 +24,8 @@ Essa documentação também está disponível nesse repositório:
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
 
+{% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900" %}
+
 {% embed url="https://www.dio.me/articles/az-900-dicas-de-estudos-para-a-certificacao-no-microsoft-azure" %}
 
 {% embed url="https://github.com/MicrosoftLearning" %}
