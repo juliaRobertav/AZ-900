@@ -2,7 +2,7 @@
 description: Arquitetura Azure
 ---
 
-# Arquitetura
+# Arquitetura, Redes e Armazenamento
 
 Esse site explica melhor sobre os conceitos de arquitetura azure:
 
@@ -94,3 +94,43 @@ Função seja de programação ou relacionada a outros recursos
 * Controle dessa rede virtual dentro de uma rede privada
 * Se for usar rede pública é mais fácil utilizar a internet
 * É possível deixar uma rede privada que possui pontos e serviços que se comunicam com a internet
+
+### Serviços de Rede do Azure
+
+#### Gateway de VPN
+
+O Gateway de VPN do Azure é um serviço que pode ser usado para enviar tráfego criptografado entre uma rede virtual do Azure e locais pela Internet pública. Também é possível usar um Gateway de VPN para enviar tráfego criptografado entre as redes virtuais do Azure pela rede da Microsoft. O Gateway de VPN usa um tipo específico de gateway de rede virtual do Azure chamado gateway de VPN. Várias conexões podem ser criadas com o mesmo gateway de VPN.
+
+{% embed url="https://learn.microsoft.com/pt-br/azure/vpn-gateway/vpn-gateway-about-vpngateways" %}
+
+#### ExpressRoute
+
+estende as redes locais
+
+#### DNS do Azure
+
+Cuida da parte de segurança, controle maior, é um dos protocolos de segurança
+
+### Armazenamento
+
+#### Contas de Armazenamento
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Serviços de armazenamento
+
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
+
+URLs para acessar esses serviços:
+
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+#### Camadas de acesso de armazenamento
+
+<figure><img src="../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Frequente -> mais acesssado e um custo menor por acesso mas acaba sendo maior em questão de armazenamento e de acesso
+
+Arquivo Morto -> maior custo de acesso e menor custo para manter, de acesso
