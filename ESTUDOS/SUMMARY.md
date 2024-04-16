@@ -5,6 +5,7 @@
 ## Bosch
 
 * [Introdução](bosch/introducao.md)
+* [Arquitetura](bosch/arquitetura.md)
 
 ## AZ900-Zerbini
 
