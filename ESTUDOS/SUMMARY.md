@@ -6,6 +6,7 @@
 
 * [Introdução](bosch/introducao.md)
 * [Arquitetura, Redes e Armazenamento](bosch/arquitetura-redes-e-armazenamento.md)
+* [Identidade, Acesso e Segurança](bosch/identidade-acesso-e-seguranca.md)
 
 ## AZ900-Zerbini
 

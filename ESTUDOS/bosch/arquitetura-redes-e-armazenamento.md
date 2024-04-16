@@ -24,7 +24,7 @@ Também há uma nuvem da China, não tão fechada qanto dos EUA, nela pode acess
 
 #### Recursos da Azure
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 É possível conectar máquinas virtuais a máquina físicas
 
@@ -115,7 +115,7 @@ Cuida da parte de segurança, controle maior, é um dos protocolos de segurança
 
 #### Contas de Armazenamento
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Serviços de armazenamento
 
@@ -134,3 +134,15 @@ URLs para acessar esses serviços:
 Frequente -> mais acesssado e um custo menor por acesso mas acaba sendo maior em questão de armazenamento e de acesso
 
 Arquivo Morto -> maior custo de acesso e menor custo para manter, de acesso
+
+#### Migrações para Azure
+
+* Azure Data Box
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+\-> Facilita a migração dos dados
+
+* Opções de gerenciamento de arquivos
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>

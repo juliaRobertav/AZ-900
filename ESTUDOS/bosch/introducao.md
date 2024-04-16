@@ -4,8 +4,6 @@ description: Todas as explicações detalhadas desses assuntos estão nos slides
 
 # Introdução
 
-{% file src="../.gitbook/assets/IntroduçãoAZ900.pdf" %}
-
 ### Computação em nuvem
 
 \-> acessar qualquer serviço pela internet
@@ -60,6 +58,6 @@ Para isso a Microsoft fornece uma calculadora de preços
 
 \-> SaaS (software)
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **Não necessariamente é preciso comprar os recursos da azure (principalmente em SaaS) para usar!!**
