@@ -12,6 +12,10 @@ description: Perguntas que fiquei com dúvida
 
 [https://forms.gle/bmukdeVk8jPkM63f7?authuser=0](https://forms.gle/bmukdeVk8jPkM63f7?authuser=0)
 
+* Simulado
+
+[https://simulados.bynem.com.br/visualizar/simulado/az-900-fundamentos-do-microsoft-azure-pt#google\_vignette](https://simulados.bynem.com.br/visualizar/simulado/az-900-fundamentos-do-microsoft-azure-pt#google\_vignette)
+
 
 
 * politica de conformidade - finserver - rede local, para regras internas e outro para quem esta fora desse finserver por exemplo
