@@ -97,6 +97,11 @@ Função seja de programação ou relacionada a outros recursos
 
 ### Serviços de Rede do Azure
 
+* Dimensionamentos:
+
+1. Dimensionamento horizontal (scaling horizontal): Também conhecido como escalabilidade horizontal, envolve adicionar mais instâncias ou réplicas do sistema ou aplicativo. Nesse caso, você distribui a carga de trabalho entre várias máquinas ou servidores. Por exemplo, se você tiver um aplicativo web, poderá adicionar mais servidores para lidar com um aumento no tráfego. O dimensionamento horizontal geralmente é mais fácil de implementar, pois não requer alterações significativas na infraestrutura existente. No entanto, pode exigir mecanismos de balanceamento de carga para distribuir o tráfego entre as instâncias.
+2. Dimensionamento vertical (scaling vertical): Também conhecido como escalabilidade vertical, envolve aumentar a capacidade de uma única instância ou servidor, adicionando mais recursos a ele. Isso pode incluir aumentar a quantidade de memória, processadores, armazenamento ou outros recursos do sistema. Por exemplo, você pode atualizar um servidor com mais RAM ou adicionar mais núcleos de processamento. O dimensionamento vertical geralmente requer alterações na infraestrutura existente e pode ter limitações físicas, como a capacidade máxima de recursos em um único servidor.
+
 #### Gateway de VPN
 
 O Gateway de VPN do Azure é um serviço que pode ser usado para enviar tráfego criptografado entre uma rede virtual do Azure e locais pela Internet pública. Também é possível usar um Gateway de VPN para enviar tráfego criptografado entre as redes virtuais do Azure pela rede da Microsoft. O Gateway de VPN usa um tipo específico de gateway de rede virtual do Azure chamado gateway de VPN. Várias conexões podem ser criadas com o mesmo gateway de VPN.
