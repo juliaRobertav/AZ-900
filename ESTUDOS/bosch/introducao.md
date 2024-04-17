@@ -6,11 +6,17 @@ description: Todas as explicações detalhadas desses assuntos estão nos slides
 
 ### Computação em nuvem
 
+Computação em nuvem é a entrega de serviços de  computação por meio da internet
+
 \-> acessar qualquer serviço pela internet
 
 * Tipos de nuvem:
 
 \-> pública
+
+* As organizações criam um ambiente em nuvem em seu datacenter
+* As organizações são responsáveis por operar os serviços que fornecem
+* Não fornece acesso aos usuários fora da organização
 
 \-> privada
 

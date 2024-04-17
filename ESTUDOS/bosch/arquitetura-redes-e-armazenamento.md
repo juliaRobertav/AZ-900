@@ -105,7 +105,7 @@ O Gateway de VPN do Azure é um serviço que pode ser usado para enviar tráfego
 
 #### ExpressRoute
 
-estende as redes locais
+estende as redes locais para Azure por meio de uma conexão privada
 
 #### DNS do Azure
 
