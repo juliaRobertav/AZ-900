@@ -70,6 +70,13 @@ Computação em nuvem é a entrega de serviços de  computação por meio da int
 * Horizontal - adiciona mais instâncias
 * Vertical -  recursos,aumenta a capacidade de uma única instância
 
+
+
+* Dimensionamentos:
+
+1. Dimensionamento horizontal (scaling horizontal): Também conhecido como escalabilidade horizontal, envolve adicionar mais instâncias ou réplicas do sistema ou aplicativo. Nesse caso, você distribui a carga de trabalho entre várias máquinas ou servidores. Por exemplo, se você tiver um aplicativo web, poderá adicionar mais servidores para lidar com um aumento no tráfego. O dimensionamento horizontal geralmente é mais fácil de implementar, pois não requer alterações significativas na infraestrutura existente. No entanto, pode exigir mecanismos de balanceamento de carga para distribuir o tráfego entre as instâncias.
+2. Dimensionamento vertical (scaling vertical): Também conhecido como escalabilidade vertical, envolve aumentar a capacidade de uma única instância ou servidor, adicionando mais recursos a ele. Isso pode incluir aumentar a quantidade de memória, processadores, armazenamento ou outros recursos do sistema. Por exemplo, você pode atualizar um servidor com mais RAM ou adicionar mais núcleos de processamento. O dimensionamento vertical geralmente requer alterações na infraestrutura existente e pode ter limitações físicas, como a capacidade máxima de recursos em um único servidor.
+
 Para isso a Microsoft fornece uma calculadora de preços
 
 {% embed url="https://azure.microsoft.com/pt-br/pricing/calculator/" %}
