@@ -12,17 +12,50 @@ Computação em nuvem é a entrega de serviços de  computação por meio da int
 
 * Tipos de nuvem:
 
-\-> pública
+1. pública
 
-* As organizações criam um ambiente em nuvem em seu datacenter
-* As organizações são responsáveis por operar os serviços que fornecem
-* Não fornece acesso aos usuários fora da organização
+* Nuvem Pública: A nuvem pública da Azure é uma plataforma de computação em nuvem oferecida pela Microsoft para uso geral.
+* Nesse modelo, os recursos de computação, armazenamento e rede são fornecidos pela Microsoft e compartilhados entre várias organizações. Os clientes podem acessar esses recursos por meio da Internet, pagando apenas pelos serviços utilizados. A nuvem pública é altamente escalável, flexível e econômica, permitindo que as empresas reduzam custos operacionais e se concentrem em suas principais competências.
 
-\-> privada
+\-> Principais características da nuvem pública:
 
-\-> hibrida
+* Recursos compartilhados entre várias organizações.
+* Acesso via Internet.
+* Escalabilidade e flexibilidade.
+* Modelo de pagamento por uso.
+* Manutenção e atualizações gerenciadas pela provedora de nuvem.
 
-* Tipos de despesas:
+2. &#x20;privada
+
+* Nuvem Privada: A nuvem privada da Azure é uma infraestrutura de nuvem dedicada a uma única organização.
+* Nesse modelo, os recursos de computação, armazenamento e rede são implantados em um ambiente isolado, geralmente dentro do data center da própria organização. A nuvem privada oferece maior controle e segurança, permitindo que as empresas atendam a requisitos regulatórios específicos ou mantenham dados sensíveis dentro de suas próprias instalações. No entanto, a nuvem privada requer investimentos significativos em infraestrutura e manutenção.
+
+\-> Principais características da nuvem privada:
+
+* Recursos dedicados a uma única organização.
+* Implantação em data center próprio ou de terceiros.
+* Maior controle e segurança.
+* Atendimento a requisitos regulatórios específicos.
+* Investimentos em infraestrutura e manutenção.
+
+3. hibrida
+
+* Nuvem Híbrida: A nuvem híbrida da Azure combina os recursos da nuvem pública e privada, permitindo que as organizações aproveitem o melhor dos dois mundos.
+* Nesse modelo, as empresas podem implantar e gerenciar aplicativos e dados em ambientes de nuvem pública e privada, mantendo a flexibilidade e a escalabilidade da nuvem pública, ao mesmo tempo em que mantêm o controle e a segurança da nuvem privada. A nuvem híbrida é ideal para organizações que desejam migrar gradualmente para a nuvem ou que têm requisitos específicos de segurança e conformidade.
+
+\-> Principais características da nuvem híbrida:
+
+* Combinação de recursos da nuvem pública e privada.
+* Flexibilidade e escalabilidade da nuvem pública.
+* Controle e segurança da nuvem privada.
+* Migração gradual para a nuvem.
+* Atendimento a requisitos específicos de segurança e conformidade.
+
+
+
+#### Tipos de despesas
+
+
 
 \-> CapEx (Capital)
 
