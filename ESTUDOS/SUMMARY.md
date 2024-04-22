@@ -10,6 +10,7 @@
 * [Exercícios](bosch/exercicios.md)
 * [Módulo 3](bosch/modulo-3.md)
 * [Computação em Rede](bosch/computacao-em-rede.md)
+* [Pesquisas](bosch/pesquisas.md)
 
 ## AZ900-Zerbini
 
