@@ -6,10 +6,6 @@ description: Todas as explicações detalhadas desses assuntos estão nos slides
 
 ## Princípios báscios do Microsoft Azure
 
-Esse site explica melhor sobre os conceitos introdutórios:
-
-{% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
-
 ## Computação em Nuvem
 
 Computação em nuvem é a entrega de serviços de  computação por meio da internet

@@ -24,9 +24,25 @@ Essa documentação também está disponível nesse repositório:
 
 {% file src=".gitbook/assets/Parte2-AZ900.pdf" %}
 
+* Módulo 1:&#x20;
+
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
+
+* Módulo 2:
+
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/" %}
+
+* Módulo 3:
+
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/describe-azure-management-governance/" %}
+
+* Simulado e Dicas:
+
 {% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" %}
 
-* Na prova é provável que falem alguma situação e perguntem o que é viável fazer/usar em tal situação
+* &#x20;No simulado pode ser que pergunte sobre algumas situações possíveis e o que deve ser feito para resolver
+  * Exemplo:
+  * Pedir Recursos - a melhor solução seria o bloqueio
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
 

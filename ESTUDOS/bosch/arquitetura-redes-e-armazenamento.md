@@ -6,8 +6,6 @@ description: Arquitetura Azure
 
 Esse site explica melhor sobre os conceitos de arquitetura azure:
 
-{% embed url="https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/" %}
-
 {% embed url="https://learn.microsoft.com/pt-br/azure/architecture/guide/" %}
 
 ### Regiões
@@ -176,40 +174,3 @@ Em resumo, os Grupos de Gerenciamento no Azure são recursos que permitem organi
 
 {% embed url="https://learn.microsoft.com/pt-br/azure/governance/management-groups/overview" %}
 
-
-
-####
-
-### Armazenamento
-
-
-
-#### Serviços de armazenamento
-
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
-
-URLs para acessar esses serviços:
-
-<figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-#### Camadas de acesso de armazenamento
-
-<figure><img src="../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
-
-Frequente -> mais acesssado e um custo menor por acesso mas acaba sendo maior em questão de armazenamento e de acesso
-
-Arquivo Morto -> maior custo de acesso e menor custo para manter, de acesso
-
-#### Migrações para Azure
-
-* Azure Data Box
-
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-\-> Facilita a migração dos dados
-
-* Opções de gerenciamento de arquivos
-
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
