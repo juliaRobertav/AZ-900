@@ -6,6 +6,8 @@ description: Arquitetura Azure
 
 Esse site explica melhor sobre os conceitos de arquitetura azure:
 
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/" %}
+
 {% embed url="https://learn.microsoft.com/pt-br/azure/architecture/guide/" %}
 
 #### Zonas de disponibilidade
