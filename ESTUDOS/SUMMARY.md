@@ -5,9 +5,11 @@
 ## Bosch
 
 * [Introdução](bosch/introducao.md)
-* [Arquitetura, Redes e Armazenamento](bosch/arquitetura-redes-e-armazenamento.md)
-* [Identidade, Acesso e Segurança](bosch/identidade-acesso-e-seguranca.md)
+* [Arquitetura](bosch/arquitetura-redes-e-armazenamento.md)
+* [Módulo 2.2](bosch/identidade-acesso-e-seguranca.md)
 * [Exercícios](bosch/exercicios.md)
+* [Módulo 3](bosch/modulo-3.md)
+* [Computação em Rede](bosch/computacao-em-rede.md)
 
 ## AZ900-Zerbini
 

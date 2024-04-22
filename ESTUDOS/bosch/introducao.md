@@ -4,13 +4,13 @@ description: Todas as explicações detalhadas desses assuntos estão nos slides
 
 # Introdução
 
-### Princípios básicos do Microsoft Azure
+## Princípios báscios do Microsoft Azure
 
 Esse site explica melhor sobre os conceitos introdutórios:
 
 {% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
 
-### Computação em nuvem
+## Computação em Nuvem
 
 Computação em nuvem é a entrega de serviços de  computação por meio da internet
 
@@ -74,7 +74,7 @@ Para isso a Microsoft fornece uma calculadora de preços
 
 {% embed url="https://azure.microsoft.com/pt-br/pricing/calculator/" %}
 
-### Benefícios da Nuvem
+## Benefícios da nuvem
 
 #### Confiabilidade
 
@@ -101,7 +101,7 @@ Para isso a Microsoft fornece uma calculadora de preços
 1. <mark style="color:blue;">Gerenciamento da Nuvem</mark>: O gerenciamento da nuvem refere-se às atividades e processos envolvidos na administração dos recursos de nuvem, independentemente de onde esses recursos estejam localizados. Isso inclui a definição e implementação de políticas, monitoramento de desempenho, provisionamento de recursos, gerenciamento de segurança, backup e recuperação de dados, entre outras tarefas. O gerenciamento da nuvem é responsabilidade do provedor de nuvem, como a Microsoft Azure, que oferece ferramentas e serviços para ajudar as organizações a gerenciar seus recursos de nuvem de forma eficiente e segura. Os provedores de nuvem também são responsáveis por garantir a disponibilidade, confiabilidade e escalabilidade dos serviços de nuvem.
 2. <mark style="color:blue;">Gerenciamento na Nuvem</mark>: O gerenciamento na nuvem refere-se às atividades de administração e controle realizadas pelos clientes ou usuários dos serviços de nuvem. Isso inclui a configuração e personalização dos recursos de nuvem, monitoramento do desempenho e uso dos serviços, gerenciamento de identidades e acesso, implementação de políticas de segurança, gerenciamento de custos e otimização de recursos. O gerenciamento na nuvem é responsabilidade das organizações ou indivíduos que utilizam os serviços de nuvem para hospedar suas aplicações, armazenar dados e executar suas operações de negócios. Os clientes podem usar ferramentas e serviços fornecidos pelo provedor de nuvem, como painéis de controle, APIs e automação, para facilitar o gerenciamento na nuvem.
 
-### Tipos de Serviço de nuvem
+## Tipos de Serviços
 
 1. Infraestrutura como Serviço (IaaS): O IaaS fornece recursos de infraestrutura virtualizados, como máquinas virtuais, redes, armazenamento e balanceadores de carga. Com o IaaS da Azure, as organizações podem implantar e gerenciar suas próprias aplicações e sistemas operacionais em uma infraestrutura virtualizada. Isso oferece flexibilidade e controle total sobre a configuração e personalização da infraestrutura, permitindo que as organizações construam e gerenciem seus próprios ambientes de TI na nuvem.
 
