@@ -22,7 +22,15 @@ Essa documentação também está disponível nesse repositório:
 
 {% file src=".gitbook/assets/IntroduçãoAZ900.pdf" %}
 
+{% file src=".gitbook/assets/Parte2-AZ900.pdf" %}
+
+{% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" %}
+
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
+
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
+
+{% embed url="https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900" %}
 
