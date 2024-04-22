@@ -1,3 +1,3 @@
 # Módulo 3
 
-Custos
+Custos, Gerenciamento e Governança
