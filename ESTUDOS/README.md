@@ -26,6 +26,8 @@ Essa documentação também está disponível nesse repositório:
 
 {% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" %}
 
+* Na prova é provável que falem alguma situação e perguntem o que é viável fazer/usar em tal situação
+
 {% embed url="https://learn.microsoft.com/pt-br/azure/?product=popular" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900" %}

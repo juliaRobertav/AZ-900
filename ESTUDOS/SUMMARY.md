@@ -11,6 +11,7 @@
 * [Módulo 3](bosch/modulo-3.md)
 * [Computação em Rede](bosch/computacao-em-rede.md)
 * [Pesquisas](bosch/pesquisas.md)
+* [Armazenamento](bosch/armazenamento.md)
 
 ## AZ900-Zerbini
 
