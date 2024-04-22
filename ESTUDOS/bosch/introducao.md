@@ -99,9 +99,16 @@ Para isso a Microsoft fornece uma calculadora de preços
 
 ### Tipos de Serviço de nuvem
 
-\-> IaaS (infraestrutura)
+1. Infraestrutura como Serviço (IaaS): O IaaS fornece recursos de infraestrutura virtualizados, como máquinas virtuais, redes, armazenamento e balanceadores de carga. Com o IaaS da Azure, as organizações podem implantar e gerenciar suas próprias aplicações e sistemas operacionais em uma infraestrutura virtualizada. Isso oferece flexibilidade e controle total sobre a configuração e personalização da infraestrutura, permitindo que as organizações construam e gerenciem seus próprios ambientes de TI na nuvem.
 
-* Máquina Virtual e Contêiner por exemplo fazem parte da infraestrutura
+Exemplos de serviços de IaaS da Azure incluem:
+
+* Máquinas Virtuais (Azure Virtual Machines)
+* Redes Virtuais (Azure Virtual Networks)
+* Armazenamento em Blobs (Azure Blob Storage)
+* Balanceadores de Carga (Azure Load Balancer)
+* Backup e Recuperação (Azure Backup)
+* Contêineres
 
 \-> PaaS (plataforma)
 
