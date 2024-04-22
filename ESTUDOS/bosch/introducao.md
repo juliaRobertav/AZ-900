@@ -110,10 +110,77 @@ Exemplos de serviços de IaaS da Azure incluem:
 * Backup e Recuperação (Azure Backup)
 * Contêineres
 
-\-> PaaS (plataforma)
+2. Plataforma como Serviço (PaaS): O PaaS fornece uma plataforma completa para desenvolvimento, execução e gerenciamento de aplicações na nuvem, sem a necessidade de gerenciar a infraestrutura subjacente. Com o PaaS da Azure, as organizações podem se concentrar no desenvolvimento de suas aplicações, enquanto a plataforma cuida da infraestrutura, escalabilidade e gerenciamento. Isso permite uma maior produtividade e agilidade no desenvolvimento de software.
 
-\-> SaaS (software)
+Exemplos de serviços de PaaS da Azure incluem:
+
+* Serviço de Aplicativo (Azure App Service)
+* Banco de Dados SQL (Azure SQL Database)
+* Serviço de Funções (Azure Functions)
+* Serviço de Machine Learning (Azure Machine Learning)
+* Serviço de Armazenamento de Dados (Azure Data Lake Storage)
+
+3. Software como Serviço (SaaS): O SaaS oferece aplicativos completos hospedados na nuvem, prontos para uso imediato. Com o SaaS da Azure, as organizações podem acessar e utilizar aplicativos de terceiros diretamente na nuvem, sem a necessidade de instalação ou gerenciamento de software. Isso oferece conveniência e escalabilidade, permitindo que as organizações utilizem aplicativos de negócios essenciais sem se preocupar com a infraestrutura subjacente.
+
+Exemplos de serviços de SaaS da Azure incluem:
+
+* Microsoft 365: Inclui aplicativos populares como Word, Excel, PowerPoint e Outlook, além de serviços de colaboração como o Microsoft Teams e o SharePoint Online.
+* Dynamics 365: Uma suíte de aplicativos de negócios que abrange áreas como vendas, atendimento ao cliente, marketing, finanças e operações.
+* Azure DevOps: Uma plataforma de colaboração e gerenciamento de ciclo de vida de aplicativos que ajuda equipes de desenvolvimento a planejar, desenvolver, testar e entregar software com eficiência.
+* Azure Active Directory: Um serviço de gerenciamento de identidade e acesso baseado em nuvem que fornece autenticação e autorização para aplicativos e serviços da Azure.
+* Azure Backup: Um serviço de backup e recuperação de dados que permite proteger e recuperar dados de máquinas virtuais, servidores físicos e bancos de dados na nuvem.
+* Azure Security Center: Um serviço de segurança que fornece monitoramento contínuo, detecção de ameaças e recomendações de segurança para proteger recursos na nuvem.
+*   Azure Cognitive Services: Um conjunto de serviços de inteligência artificial (IA) pré-treinados que permitem adicionar recursos de IA, como reconhecimento de fala, visão computacional e processamento de linguagem natural, às aplicações.
+
+
+* Azure IoT Central: Uma plataforma de gerenciamento de IoT (Internet das Coisas) que simplifica a criação, implantação e gerenciamento de soluções de IoT.
+
+Além do IaaS, PaaS e SaaS, também existem os seguintes tipos de serviços em nuvem:
+
+1. Function as a Service (FaaS): Também conhecido como serverless computing, o FaaS permite que os desenvolvedores executem pequenos trechos de código (funções) sem se preocupar com a infraestrutura subjacente. Os provedores de nuvem gerenciam automaticamente a alocação de recursos e a escalabilidade, cobrando apenas pelo tempo de execução das funções.
+2. Container as a Service (CaaS): Nesse modelo, os provedores de nuvem oferecem uma plataforma para implantar, gerenciar e orquestrar contêineres. Os contêineres permitem empacotar aplicativos e suas dependências em unidades isoladas, facilitando a implantação e o gerenciamento de aplicativos em diferentes ambientes.
+3. Desktop as a Service (DaaS): Também conhecido como Virtual Desktop Infrastructure (VDI), o DaaS permite que os usuários acessem desktops virtuais hospedados na nuvem. Isso oferece flexibilidade e mobilidade, permitindo que os usuários acessem seus desktops e aplicativos de qualquer dispositivo com conexão à internet.
+4. Backend as a Service (BaaS): O BaaS fornece uma plataforma para desenvolvedores construírem e implantarem rapidamente o backend de aplicativos móveis e web. Ele oferece recursos como armazenamento de dados, autenticação de usuários, notificações push e integração com serviços em nuvem, permitindo que os desenvolvedores se concentrem na lógica do aplicativo.
+
+
+
+#### Modelo de Responsabilidade Compartilhada
+
+O modelo de responsabilidade compartilhada é um conceito importante na computação em nuvem, incluindo a Microsoft Azure. Nesse modelo, tanto o provedor de nuvem quanto o cliente têm responsabilidades específicas em relação à segurança e proteção dos dados e recursos.
+
+Na Azure, a responsabilidade é dividida da seguinte forma:
+
+1. Responsabilidade do provedor de nuvem (Microsoft): A Microsoft é responsável pela segurança física dos data centers, infraestrutura de rede, virtualização e segurança dos serviços básicos da plataforma Azure. Isso inclui a proteção contra ameaças físicas, como incêndios e falhas de energia, bem como a segurança da infraestrutura subjacente.
+2. Responsabilidade do cliente: O cliente é responsável pela segurança dos dados e aplicativos que são implantados na Azure. Isso inclui a configuração adequada dos recursos, gerenciamento de identidade e acesso, proteção contra ameaças virtuais, como malware e ataques de phishing, e implementação de práticas de segurança recomendadas.
+
+A tabela de responsabilidade compartilhada varia de acordo com o tipo de nuvem: pública, privada e híbrida. Vamos analisar cada uma delas:
+
+1. Nuvem Pública:
+   * Responsabilidade do provedor de nuvem: O provedor de nuvem é responsável pela segurança física dos data centers, rede, virtualização e segurança dos serviços básicos. Isso inclui a proteção contra ameaças físicas, como desastres naturais, e a segurança da infraestrutura subjacente.
+   * Responsabilidade do cliente: O cliente é responsável pela segurança dos dados e aplicativos que são implantados na nuvem pública. Isso inclui a configuração adequada dos recursos, gerenciamento de identidade e acesso, proteção contra ameaças virtuais e implementação de práticas de segurança recomendadas.
+2. Nuvem Privada:
+   * Responsabilidade do provedor de nuvem: No caso de uma nuvem privada, a responsabilidade do provedor de nuvem é maior, pois eles são responsáveis por fornecer e gerenciar toda a infraestrutura, incluindo hardware, rede e segurança física.
+   * Responsabilidade do cliente: O cliente é responsável por configurar, gerenciar e proteger os aplicativos e dados implantados na nuvem privada. Isso inclui a implementação de políticas de segurança, gerenciamento de identidade e acesso, e proteção contra ameaças virtuais.
+3.  Nuvem Híbrida:
+
+    * Responsabilidade do provedor de nuvem: O provedor de nuvem é responsável pela segurança da infraestrutura da nuvem pública e dos serviços básicos oferecidos. Isso inclui a segurança física dos data centers, rede e virtualização.
+    * Responsabilidade do cliente: O cliente é responsável pela segurança dos dados e aplicativos implantados tanto na nuvem pública quanto na nuvem privada. Isso inclui a configuração adequada dos recursos, gerenciamento de identidade e acesso, proteção contra ameaças virtuais e implementação de práticas de segurança recomendadas.
+
+
+
+    O modelo de responsabilidade compartilhada também pode variar de acordo com o tipo de serviço de nuvem utilizado. Vamos analisar alguns exemplos:
+
+    1. Infraestrutura como Serviço (IaaS):
+       * Responsabilidade do provedor de nuvem: O provedor de nuvem é responsável pela segurança física dos data centers, rede, virtualização e segurança dos serviços básicos de infraestrutura. Isso inclui a proteção contra ameaças físicas e a segurança da infraestrutura subjacente.
+       * Responsabilidade do cliente: O cliente é responsável pela segurança dos sistemas operacionais, aplicativos, dados e configurações implantados na infraestrutura fornecida pelo provedor de nuvem. Isso inclui a configuração adequada dos recursos, gerenciamento de identidade e acesso, proteção contra ameaças virtuais e implementação de práticas de segurança recomendadas.
+    2. Plataforma como Serviço (PaaS):
+       * Responsabilidade do provedor de nuvem: O provedor de nuvem é responsável pela segurança física dos data centers, rede, virtualização e segurança dos serviços básicos de plataforma. Isso inclui a proteção contra ameaças físicas e a segurança da infraestrutura subjacente.
+       * Responsabilidade do cliente: O cliente é responsável pela segurança dos aplicativos e dados que são desenvolvidos e implantados na plataforma fornecida pelo provedor de nuvem. Isso inclui a configuração adequada dos recursos, gerenciamento de identidade e acesso, proteção contra ameaças virtuais e implementação de práticas de segurança recomendadas.
+    3. Software como Serviço (SaaS):
+       * Responsabilidade do provedor de nuvem: No modelo SaaS, o provedor de nuvem é responsável por fornecer e gerenciar todo o software e infraestrutura subjacente. Isso inclui a segurança física dos data centers, rede, virtualização e segurança dos serviços de software.
+       * Responsabilidade do cliente: O cliente é responsável por configurar e gerenciar as configurações de segurança e acesso aos dados e aplicativos fornecidos pelo provedor de nuvem. Isso inclui a proteção adequada das credenciais de acesso, implementação de políticas de segurança e conformidade, e uso adequado dos recursos fornecidos.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **Não necessariamente é preciso comprar os recursos da azure (principalmente em SaaS) para usar!!**
+* É importante entender que, à medida que você avança do IaaS para o SaaS, a responsabilidade do cliente diminui, pois o provedor de nuvem assume mais responsabilidades em relação à segurança e gerenciamento da infraestrutura e dos serviços. No entanto, é fundamental que o cliente ainda esteja ciente de suas responsabilidades em relação à segurança dos dados e configurações específicas do serviço de nuvem utilizado.
