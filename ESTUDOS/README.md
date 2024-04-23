@@ -20,21 +20,25 @@ Essa documentação também está disponível nesse repositório:
 
 {% file src=".gitbook/assets/AZ-900 - 06.pdf" %}
 
-{% file src=".gitbook/assets/IntroduçãoAZ900.pdf" %}
-
-{% file src=".gitbook/assets/Parte2-AZ900.pdf" %}
+<figure><img src=".gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Módulo 1:&#x20;
 
 {% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
 
+{% file src=".gitbook/assets/modulo1.pdf" %}
+
 * Módulo 2:
 
 {% embed url="https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services/" %}
 
+{% file src=".gitbook/assets/modulo2.pdf" %}
+
 * Módulo 3:
 
 {% embed url="https://learn.microsoft.com/pt-br/training/paths/describe-azure-management-governance/" %}
+
+{% file src=".gitbook/assets/modulo3.pdf" %}
 
 * Simulado e Dicas:
 
