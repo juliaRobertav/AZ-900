@@ -8,10 +8,12 @@
 * [Arquitetura](bosch/arquitetura-redes-e-armazenamento.md)
 * [IAS (Identidade, Acesso e Segurança)](bosch/identidade-acesso-e-seguranca.md)
 * [Exercícios](bosch/exercicios.md)
-* [Módulo 3](bosch/modulo-3.md)
+* [Gerenciamento de custos](bosch/gerenciamento-de-custos.md)
 * [Computação em Rede](bosch/computacao-em-rede.md)
-* [Pesquisas](bosch/pesquisas.md)
 * [Armazenamento](bosch/armazenamento.md)
+* [Governança e conformidade](bosch/governanca-e-conformidade.md)
+* [Ferramentas de gerenciamento e implantação](bosch/ferramentas-de-gerenciamento-e-implantacao.md)
+* [Ferramentas de gerenciamento do Azure](bosch/ferramentas-de-gerenciamento-do-azure.md)
 
 ## AZ900-Zerbini
 
