@@ -22,6 +22,10 @@ Essa documentação também está disponível nesse repositório:
 
 <figure><img src=".gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
 
+* Resumo:
+
+{% embed url="https://dev.to/guilhermemanzano/resumo-estudos-az-900-12l3" %}
+
 * Módulo 1:&#x20;
 
 {% embed url="https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/" %}
