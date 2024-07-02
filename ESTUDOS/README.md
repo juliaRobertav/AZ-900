@@ -66,8 +66,6 @@ Essa documentação também está disponível nesse repositório:
 
 {% embed url="https://github.com/CristianoRC/AZ-900" %}
 
-{% embed url="https://microsoftlearning.github.io/AI-900-AIFundamentals/" %}
-
 {% embed url="https://www.notion.so/jurovgui/AZ-900-b41e1f971e684e79bce15f57659076a5?pvs=4" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/" %}
